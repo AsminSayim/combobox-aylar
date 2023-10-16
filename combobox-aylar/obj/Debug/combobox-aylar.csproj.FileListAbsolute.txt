@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-aylar\combobox-aylar\bin\Debug\combobox-aylar.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-aylar\combobox-aylar\bin\Debug\combobox-aylar.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-aylar\combobox-aylar\bin\Debug\combobox-aylar.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-aylar\combobox-aylar\obj\Debug\combobox-aylar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-aylar\combobox-aylar\obj\Debug\combobox-aylar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-aylar\combobox-aylar\obj\Debug\combobox_aylar.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-aylar\combobox-aylar\obj\Debug\combobox_aylar.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-aylar\combobox-aylar\obj\Debug\combobox-aylar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-aylar\combobox-aylar\obj\Debug\combobox-aylar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-aylar\combobox-aylar\obj\Debug\combobox-aylar.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\combobox-aylar\combobox-aylar\obj\Debug\combobox-aylar.pdb
